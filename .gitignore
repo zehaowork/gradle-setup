@@ -1,0 +1,17 @@
+/.gradle/7.6/checksums/checksums.lock
+/build/tmp/scala/compilerAnalysis/compileScala.analysis
+/build/tmp/scala/compilerAnalysis/compileScala.mapping
+/.gradle/7.6/dependencies-accessors/dependencies-accessors.lock
+/.gradle/7.6/executionHistory/executionHistory.bin
+/.gradle/7.6/executionHistory/executionHistory.lock
+/.gradle/7.6/fileHashes/fileHashes.bin
+/.gradle/7.6/fileHashes/fileHashes.lock
+/.gradle/7.6/dependencies-accessors/gc.properties
+/.gradle/7.6/gc.properties
+/build/libs/gradle-setup-1.0-SNAPSHOT.jar
+/build/classes/scala/main/com/zehaowork/GradleSetupApplication$.class
+/build/classes/scala/main/com/zehaowork/GradleSetupApplication$delayedInit$body.class
+/build/classes/scala/main/com/zehaowork/GradleSetupApplication.class
+/.gradle/7.6/fileChanges/last-build.bin
+/build/tmp/bootJar/MANIFEST.MF
+/build/classes/scala/main/com/zehaowork/rest/RandomRestController.class
