@@ -15,3 +15,4 @@
 /.gradle/7.6/fileChanges/last-build.bin
 /build/tmp/bootJar/MANIFEST.MF
 /build/classes/scala/main/com/zehaowork/rest/RandomRestController.class
+/build/resources/main/application.yml
